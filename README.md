@@ -6,8 +6,8 @@ I build open-source AI tools in Rust: model serving with Ferrum, and interactive
 
 | Project | What it does | Explore |
 | --- | --- | --- |
-| **[Ferrum](https://github.com/sizzlecar/ferrum-infer-rs)** | Serve local LLMs from one Rust binary. OpenAI-compatible APIs, Apple Silicon Metal, and NVIDIA CUDA. | [Get started](https://github.com/sizzlecar/ferrum-infer-rs#quick-start) · [Website](https://ferrum.pandaailabs.com/) |
-| **[Orchestral](https://github.com/sizzlecar/orchestral)** | Run interactive agents from a terminal or browser, using local or remote model providers. Read code, edit files, run commands, and resume work. | [Get started](https://github.com/sizzlecar/orchestral#start) · [Website](https://orch.pandaailabs.com/) |
+| **[Ferrum](https://github.com/sizzlecar/ferrum-infer-rs)** | Serve local LLMs with one Rust binary. | [Get started](https://github.com/sizzlecar/ferrum-infer-rs#quick-start) · [Website](https://ferrum.pandaailabs.com/) |
+| **[Orchestral](https://github.com/sizzlecar/orchestral)** | Run coding agents with local or remote models. | [Get started](https://github.com/sizzlecar/orchestral#start) · [Website](https://orch.pandaailabs.com/) |
 
 ## See them together
 
