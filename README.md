@@ -1,30 +1,22 @@
-# Hi, I'm Carl
+![Carl — Rust & AI](assets/github-banner.png)
 
-Hands-on software engineer focused on building production systems.
+# Hi, I'm Carl.
 
-- Core focus: **AI Engineering**, **Rust**
-- Also work with: Java, Python
-- Style: pragmatic, delivery-driven, system-level problem solving
+I build open-source AI tools in Rust: model serving with Ferrum, and interactive agents with Orchestral.
 
-## Featured Projects
+| Project | What it does | Explore |
+| --- | --- | --- |
+| **[Ferrum](https://github.com/sizzlecar/ferrum-infer-rs)** | Serve local LLMs from one Rust binary. OpenAI-compatible APIs, Apple Silicon Metal, and NVIDIA CUDA. | [Get started](https://github.com/sizzlecar/ferrum-infer-rs#quick-start) · [Website](https://ferrum.pandaailabs.com/) |
+| **[Orchestral](https://github.com/sizzlecar/orchestral)** | Run interactive agents from a terminal or browser, using local or remote model providers. Read code, edit files, run commands, and resume work. | [Get started](https://github.com/sizzlecar/orchestral#start) · [Website](https://orch.pandaailabs.com/) |
 
-1. **[orchestral](https://github.com/sizzlecar/orchestral.git)**  
-   AI-oriented orchestration/runtime project, focused on reliable execution and extensibility.
-2. **[ferrum-infer-rs](https://github.com/sizzlecar/ferrum-infer-rs.git)**  
-   Rust inference engineering project, focused on performance and practical AI deployment.
+## See them together
 
-## Tech
+[![Three Orchestral terminals working with a model served by Ferrum](assets/ferrum-orchestral-demo.png)](https://ferrum-downloads.pandaailabs.com/v0.3.1/ferrum-orch-three-agents.mp4)
 
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
-![AI](https://img.shields.io/badge/-AI%20Engineering-111111?style=flat&logo=openai&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
+One local model. Three agent terminals inspecting code, fixing bugs, and running tests in separate Rust projects. [Watch the demo](https://ferrum-downloads.pandaailabs.com/v0.3.1/ferrum-orch-three-agents.mp4) — 50 seconds, shown at 8× speed.
 
-## Stats
+## Help me improve them
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sizzlecar&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sizzlecar&layout=compact&theme=default)
+For Ferrum, share your model, hardware, and a reproducible serving issue. For Orchestral, show the task or tool interaction that broke. Specific bug reports and awkward workflows are useful feedback.
 
-## Contact
-
-- Email: [pandaathome5479@gmail.com](mailto:pandaathome5479@gmail.com)
+[X · @jinxuan_ai](https://x.com/jinxuan_ai) · [Reddit · u/Mission_Photo_9783](https://www.reddit.com/user/Mission_Photo_9783/)
